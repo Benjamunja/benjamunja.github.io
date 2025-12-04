@@ -1,0 +1,2 @@
+# Publisher ID for Golden Hour Sunset Compass
+google.com, pub-1976808679149946, DIRECT, f08c47fec0942fa0
